@@ -1,0 +1,156 @@
+output t =4
+
+Event Number: 1 Current Time: 0, Jobs in Queue, Run: 0, Ready: 0, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 0
+Event Number: 1 Current Time: 1, Jobs in Queue, Run: 0, Ready: 0, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 0
+Event Number: 2 Current Time: 0, Jobs in Queue, Run: 0, Ready: 0, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 0
+Event Number: 1 Current Time: 2, Jobs in Queue, Run: 0, Ready: 0, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 1
+Event Number: 6 Current Time: 7, Jobs in Queue, Run: 0, Ready: 0, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 1
+Event Number: 1 Current Time: 8, Jobs in Queue, Run: 0, Ready: 1, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 1
+Event Number: 2 Current Time: 95, Jobs in Queue, Run: 0, Ready: 1, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 1
+Event Number: 1 Current Time: 18, Jobs in Queue, Run: 1, Ready: 1, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 2
+Event Number: 3 Current Time: 99, Jobs in Queue, Run: 1, Ready: 1, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 2
+Event Number: 1 Current Time: 22, Jobs in Queue, Run: 0, Ready: 2, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 2
+Event Number: 2 Current Time: 99, Jobs in Queue, Run: 0, Ready: 2, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 2
+Event Number: 1 Current Time: 27, Jobs in Queue, Run: 1, Ready: 2, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 3
+Event Number: 3 Current Time: 107, Jobs in Queue, Run: 1, Ready: 2, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 3
+Event Number: 1 Current Time: 29, Jobs in Queue, Run: 0, Ready: 3, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 3
+Event Number: 2 Current Time: 107, Jobs in Queue, Run: 0, Ready: 3, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 3
+Event Number: 1 Current Time: 31, Jobs in Queue, Run: 0, Ready: 3, Device 1: 0, Device 2: 1, Device 3: 0Level of Multiprogramming: 4
+Event Number: 5 Current Time: 110, Jobs in Queue, Run: 0, Ready: 3, Device 1: 0, Device 2: 1, Device 3: 0Level of Multiprogramming: 4
+Event Number: 1 Current Time: 47, Jobs in Queue, Run: 0, Ready: 4, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 4
+Event Number: 2 Current Time: 140, Jobs in Queue, Run: 0, Ready: 4, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 4
+Event Number: 1 Current Time: 51, Jobs in Queue, Run: 0, Ready: 4, Device 1: 0, Device 2: 1, Device 3: 0Level of Multiprogramming: 5
+Event Number: 5 Current Time: 143, Jobs in Queue, Run: 0, Ready: 4, Device 1: 0, Device 2: 1, Device 3: 0Level of Multiprogramming: 5
+Event Number: 1 Current Time: 53, Jobs in Queue, Run: 0, Ready: 5, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 5
+Event Number: 2 Current Time: 173, Jobs in Queue, Run: 0, Ready: 5, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 5
+Event Number: 1 Current Time: 58, Jobs in Queue, Run: 0, Ready: 5, Device 1: 0, Device 2: 1, Device 3: 0Level of Multiprogramming: 6
+Event Number: 5 Current Time: 176, Jobs in Queue, Run: 0, Ready: 5, Device 1: 0, Device 2: 1, Device 3: 0Level of Multiprogramming: 6
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 0, Ready: 6, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 6
+Event Number: 1 Current Time: 73, Jobs in Queue, Run: 0, Ready: 6, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 6
+Event Number: 2 Current Time: 206, Jobs in Queue, Run: 0, Ready: 6, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 6
+Event Number: 7 Current Time: 176, Jobs in Queue, Run: 0, Ready: 6, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 7
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 0, Ready: 6, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 7
+Event Number: 1 Current Time: 73, Jobs in Queue, Run: 0, Ready: 6, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 7
+Event Number: 6 Current Time: 209, Jobs in Queue, Run: 0, Ready: 6, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 7
+Event Number: 7 Current Time: 206, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 7
+Event Number: 7 Current Time: 176, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 7
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 7
+Event Number: 1 Current Time: 83, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 7
+Event Number: 2 Current Time: 297, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 7
+Event Number: 7 Current Time: 209, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 8
+Event Number: 7 Current Time: 206, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 8
+Event Number: 7 Current Time: 176, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 8
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 8
+Event Number: 1 Current Time: 88, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 8
+Event Number: 6 Current Time: 300, Jobs in Queue, Run: 0, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 1Level of Multiprogramming: 8
+Event Number: 7 Current Time: 297, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 209, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 206, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 176, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 1 Current Time: 88, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 2 Current Time: 388, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 300, Jobs in Queue, Run: 0, Ready: 7, Device 1: 1, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 297, Jobs in Queue, Run: 0, Ready: 7, Device 1: 1, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 209, Jobs in Queue, Run: 0, Ready: 7, Device 1: 1, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 206, Jobs in Queue, Run: 0, Ready: 7, Device 1: 1, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 176, Jobs in Queue, Run: 0, Ready: 7, Device 1: 1, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 0, Ready: 7, Device 1: 1, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 1 Current Time: 106, Jobs in Queue, Run: 0, Ready: 7, Device 1: 1, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 4 Current Time: 391, Jobs in Queue, Run: 0, Ready: 7, Device 1: 1, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 388, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 300, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 297, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 209, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 206, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 176, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 1 Current Time: 109, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 2 Current Time: 431, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 391, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 388, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 300, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 297, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 209, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 206, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 176, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 1 Current Time: 113, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 3 Current Time: 435, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 431, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 391, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 388, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 300, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 297, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 209, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 206, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 176, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 1 Current Time: 132, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 2 Current Time: 435, Jobs in Queue, Run: 0, Ready: 8, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 435, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 431, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 391, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 388, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 300, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 297, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 209, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 206, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 176, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 7 Current Time: 173, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 1 Current Time: 139, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+Event Number: 3 Current Time: 439, Jobs in Queue, Run: 1, Ready: 7, Device 1: 0, Device 2: 0, Device 3: 0Level of Multiprogramming: 8
+ID  | Arr  |  Tot  | IO1   |  IO2  |  IO3   |  Com   |   Tur  |    Wai  |    Res
+================================================================================
+0  |2   |  63   |  40   |  150   |  264   |  566   |  564   |  503   |  8.95238   
+8  |249   |  0   |  0   |  30   |  0   |  845   |  596   |  845   |  inf   
+7  |88   |  34   |  240   |  210   |  352   |  1477   |  1389   |  1443   |  40.8529   
+4  |51   |  90   |  40   |  0   |  352   |  2177   |  2126   |  2087   |  23.6222   
+5  |58   |  126   |  40   |  60   |  352   |  2393   |  2335   |  2267   |  18.5317   
+11  |1050   |  25   |  120   |  60   |  0   |  2672   |  1622   |  2647   |  64.88   
+3  |31   |  34   |  0   |  30   |  0   |  2791   |  2760   |  2757   |  81.1765   
+13  |1403   |  14   |  40   |  30   |  0   |  4364   |  2961   |  4350   |  211.5   
+12  |1180   |  56   |  120   |  90   |  176   |  4407   |  3227   |  4351   |  57.625   
+14  |1488   |  24   |  40   |  150   |  176   |  5661   |  4173   |  5637   |  173.875   
+2  |27   |  328   |  40   |  90   |  352   |  5996   |  5969   |  5668   |  18.1982   
+16  |2145   |  8   |  120   |  0   |  88   |  5997   |  3852   |  5989   |  481.5   
+15  |2104   |  9   |  0   |  30   |  0   |  6070   |  3966   |  6061   |  440.667   
+17  |2446   |  2   |  0   |  60   |  0   |  6315   |  3869   |  6313   |  1934.5   
+10  |860   |  240   |  240   |  60   |  704   |  6362   |  5502   |  6122   |  22.925   
+1  |18   |  946   |  320   |  150   |  792   |  7092   |  7074   |  6146   |  7.4778   
+21  |2689   |  10   |  0   |  0   |  88   |  7490   |  4801   |  7480   |  480.1   
+6  |73   |  375   |  80   |  0   |  264   |  8799   |  8726   |  8424   |  23.2693   
+9  |429   |  780   |  160   |  150   |  352   |  10818   |  10389   |  10038   |  13.3192   
+23  |3144   |  120   |  80   |  60   |  88   |  11948   |  8804   |  11828   |  73.3667   
+19  |2564   |  216   |  160   |  210   |  616   |  12590   |  10026   |  12374   |  46.4167   
+20  |2605   |  252   |  200   |  240   |  440   |  12624   |  10019   |  12372   |  39.7579   
+18  |2559   |  168   |  560   |  150   |  792   |  13386   |  10827   |  13218   |  64.4464   
+27  |4906   |  14   |  0   |  0   |  88   |  14151   |  9245   |  14137   |  660.357   
+28  |5166   |  32   |  40   |  60   |  88   |  15575   |  10409   |  15543   |  325.281   
+22  |2790   |  315   |  40   |  30   |  264   |  15710   |  12920   |  15395   |  41.0159   
+30  |5480   |  0   |  40   |  60   |  176   |  15738   |  10258   |  15738   |  inf   
+26  |4434   |  32   |  200   |  210   |  352   |  15816   |  11382   |  15784   |  355.688   
+25  |3747   |  328   |  80   |  90   |  264   |  16486   |  12739   |  16158   |  38.8384   
+29  |5189   |  28   |  240   |  120   |  352   |  16624   |  11435   |  16596   |  408.393   
+32  |6138   |  26   |  0   |  0   |  88   |  18627   |  12489   |  18601   |  480.346   
+24  |3209   |  368   |  400   |  450   |  1848   |  18967   |  15758   |  18599   |  42.8207   
+36  |6529   |  72   |  80   |  0   |  176   |  19020   |  12491   |  18948   |  173.486   
+40  |7831   |  5   |  40   |  0   |  0   |  19870   |  12039   |  19865   |  2407.8   
+31  |5718   |  250   |  120   |  60   |  0   |  20250   |  14532   |  20000   |  58.128   
+34  |6199   |  45   |  0   |  0   |  88   |  20515   |  14316   |  20470   |  318.133   
+41  |8286   |  4   |  160   |  0   |  0   |  20888   |  12602   |  20884   |  3150.5   
+37  |6573   |  132   |  0   |  30   |  176   |  21945   |  15372   |  21813   |  116.455   
+39  |7729   |  112   |  80   |  30   |  352   |  22120   |  14391   |  22008   |  128.491   
+35  |6275   |  294   |  40   |  60   |  264   |  22154   |  15879   |  21860   |  54.0102   
+42  |8483   |  45   |  40   |  30   |  88   |  22369   |  13886   |  22324   |  308.578   
+48  |9222   |  6   |  0   |  0   |  88   |  23423   |  14201   |  23417   |  2366.83   
+38  |7599   |  222   |  80   |  120   |  0   |  23454   |  15855   |  23232   |  71.4189   
+47  |9155   |  28   |  40   |  0   |  88   |  24363   |  15208   |  24335   |  543.143   
+46  |9135   |  36   |  40   |  30   |  176   |  24362   |  15227   |  24326   |  422.972   
+49  |0   |  21   |  160   |  30   |  176   |  25819   |  25819   |  25798   |  1229.48   
+44  |8741   |  160   |  440   |  90   |  176   |  25818   |  17077   |  25658   |  106.731   
+43  |8581   |  192   |  40   |  90   |  176   |  25904   |  17323   |  25712   |  90.224   
+33  |6191   |  66   |  680   |  750   |  2112   |  26492   |  20301   |  26426   |  307.591   
+45  |9048   |  152   |  240   |  180   |  616   |  26531   |  17483   |  26379   |  115.02   
+================================================================================
+
